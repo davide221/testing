@@ -1,4 +1,4 @@
-import {loadGLTF, loadVideo} from "../../libs/loader.js";
+import {loadGLTF, loadVideo} from "./testing/libs/loader.js";
 const THREE = window.MINDAR.IMAGE.THREE;
 
 document.addEventListener('DOMContentLoaded', () => {
